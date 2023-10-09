@@ -1,0 +1,16 @@
+{
+  "name": "ntaks---api",
+  "version": "1.0.0",
+  "description": "API de gestão de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Paulo Victor",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.18.2"
+  }
+}
